@@ -47,6 +47,7 @@ header a, footer a {
 }
 .img-main{
 width: 650px;
+height: 400px;
 border-radius: 30px;
 position: relative;
 justify-content: space-between;

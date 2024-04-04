@@ -46,13 +46,10 @@ header a, footer a {
 
 }
 .img-main{
-width: 650px;
+width: 40%;
 border-radius: 30px;
-position: relative;
-justify-content: space-between;
-left: 100px;
-margin: 0 70px;
-top: 20px;
+height: 300px;
+object-fit: cover;
 }
 .controller-item-img{
   
